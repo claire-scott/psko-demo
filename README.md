@@ -1,2 +1,3 @@
-# psko-demo
-Demonstration Devops project
+# psko-devops-demo
+
+Demo project for Tenable PSKO
